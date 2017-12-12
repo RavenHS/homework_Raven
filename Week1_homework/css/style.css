@@ -1,0 +1,99 @@
+body {
+    font-family: Arial;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/59/Long_beach3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: local;
+}
+
+/*h1 {
+    border: 1px solid #999;
+}*/
+
+.skills p {
+    border: 1px solid #DDD;
+    padding: 25px;
+}
+
+.education p {
+	padding: 25px 25px 97px 25px;
+}
+
+.experience {
+	text-align: center;
+}
+
+ol {
+    border: 1px solid #DDD;
+}
+
+.clear {
+	clear: both;
+}
+
+.box1{
+	display: inline;
+}
+
+.skills, .education {
+	width: 550px;
+	margin: 0px 30px 0px 30px;
+}
+
+.floatLeft {
+	float: left;
+}
+
+.educated {
+	border: 1px solid #DDD;
+	padding: 60px 25px 28px 95px;
+	margin: 2px 2px;
+}
+
+.floatRight {
+	float: right;
+}
+
+.pic {
+	display: block;
+	margin: 0 auto;
+	border-radius: 100%;
+	border: solid 10px
+	}
+
+#experience, #footer , h3, h1 {
+	text-align: center;
+}
+
+#experience, #exhibitions {
+	margin: 50px 0px;
+}
+
+#mid {
+	margin: 20px 0px 30px 0px;
+}
+
+#middle {
+	background-color: white;
+	padding: 0px 20px 20px 20px;
+	margin: auto;
+}
+
+#upper {
+	color: white;
+	margin: 35px 0px;
+}
+
+ol {
+	width: 600px;
+	padding: 50px 55px 35px 90px;
+	margin: auto;
+}
+
+h1 {
+	color: white;
+}
+
+nav {
+	color: #FFF;
+}
