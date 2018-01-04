@@ -1,0 +1,72 @@
+/*
+Project Name: Blank Template
+Client: Your Client
+Author: Your Name
+Developer @You in DTLA
+*/
+body {
+	background: url("../image/pizza.jpg") top center no-repeat;
+	text-align: center;
+}
+h2, a {
+	font-family: 'Rock Salt';
+}
+.thumbnail {
+	display: inline-block;
+	width: 300px;
+	height: 188px;
+	margin: 5px 5px 60px 5px;
+	padding: 5px 5px 20px 5px;
+}
+#content {
+    margin-top:60px;
+}
+#spots, #about {
+    background-color: black;
+    color: black;
+    min-height: 200px;
+}
+#home {
+	font-family: 'Rock Salt';
+	text-align: center;
+	min-height: 400px;
+	padding: 150px;
+	color: #000;
+}
+#home h1 {
+	color: #900;
+	font-weight: bold;
+}
+#spots {
+    color: black;
+}
+#about {
+    background-color: red;
+    padding: 30px;
+}
+#about h4, p, #spots h2 {
+	padding: 10px;
+	color: #FFF;
+}
+#footer {
+	background: url("../image/bowl.jpg") no-repeat;
+	font-family: 'Rock Salt';
+	color: red;
+    min-height: 100px;
+    padding: 20px;
+}
+#contact {
+	background-color: rgba(255, 255, 255, 0.7);
+	padding: 10px;
+}
+#navbar {
+	margin: 10px;
+}
+#title {
+	background-color: rgba(255, 255, 255, 0.7);
+	padding: 30px;
+	min-width: 300px;
+}
+#footer p {
+	color: red;
+}
