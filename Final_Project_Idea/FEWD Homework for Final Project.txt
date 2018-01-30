@@ -1,0 +1,19 @@
+
+Homework:
+
+1. Vegan recipe site
+
+Easy version:
+A blog type website with links to various vegan recipes
+
+Hard version:
+A blog website with links + videos + sign up section for newsletters
+
+2. Website for Trainer showcasing various training packages/meal prep options. 
+
+Easy version:
+About me section + sign up area where interested party fills out contact info
+
+Hard version:
+About me section + section to showcase various workout/meal prep packages + sign up section + shopping cart to buy packages
+
