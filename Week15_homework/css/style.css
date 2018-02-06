@@ -1,0 +1,30 @@
+body { 
+    text-align: center;
+}
+
+#ingredientList li {
+    border: none;
+    background-color: #439e69;
+}
+
+#banner {
+    background: url(../images/kale_scramble.jpg) no-repeat;
+    padding: 160px;
+    color: #FFF;
+}
+
+#intro {
+    padding: 50px;
+}
+
+#ingredients, #nutrition {
+    background-color: #439e69;
+    color: #FFF;
+    padding: 10px;
+}
+
+#recipe {
+    margin: 50px;    
+    padding: 150px 0px;
+    min-width: 70px;
+}
